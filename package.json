@@ -11,5 +11,8 @@
   "devDependencies": {
     "@types/node": "^18",
     "nuxt": "^3.4.2"
+  },
+  "dependencies": {
+    "ably": "^1.2.39"
   }
 }
